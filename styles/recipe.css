@@ -1,0 +1,30 @@
+* {
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.subheading {
+   color: rgb(60, 19, 19);
+}
+
+.para {
+   color: brown;
+}
+
+.heading {
+   color: rgb(54, 0, 54);
+   text-align: center;
+}
+
+h5.subheading {
+   text-align: center;
+}
+
+.pic {
+   color: yellow;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   border-radius: 20%;
+   border-color: brown;
+   border-style: double;
+}
